@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/vc-ui/static/css/main.372d31b3.chunk.css",
+    "main.css": "/vc-ui/static/css/main.5befc0a7.chunk.css",
     "main.js": "/vc-ui/static/js/main.cdc4b2ad.chunk.js",
     "main.js.map": "/vc-ui/static/js/main.cdc4b2ad.chunk.js.map",
     "runtime-main.js": "/vc-ui/static/js/runtime-main.7a79d7fa.js",
@@ -9,10 +9,10 @@
     "static/js/2.0e07bda9.chunk.js": "/vc-ui/static/js/2.0e07bda9.chunk.js",
     "static/js/2.0e07bda9.chunk.js.map": "/vc-ui/static/js/2.0e07bda9.chunk.js.map",
     "index.html": "/vc-ui/index.html",
-    "precache-manifest.f70c7314aceaa7c46274c4dabfdead2b.js": "/vc-ui/precache-manifest.f70c7314aceaa7c46274c4dabfdead2b.js",
+    "precache-manifest.d46f167c605f672f559d0c71640ff809.js": "/vc-ui/precache-manifest.d46f167c605f672f559d0c71640ff809.js",
     "service-worker.js": "/vc-ui/service-worker.js",
     "static/css/2.1b63170c.chunk.css.map": "/vc-ui/static/css/2.1b63170c.chunk.css.map",
-    "static/css/main.372d31b3.chunk.css.map": "/vc-ui/static/css/main.372d31b3.chunk.css.map",
+    "static/css/main.5befc0a7.chunk.css.map": "/vc-ui/static/css/main.5befc0a7.chunk.css.map",
     "static/js/2.0e07bda9.chunk.js.LICENSE.txt": "/vc-ui/static/js/2.0e07bda9.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/vc-ui/static/media/fontawesome-webfont.fee66e71.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.7a79d7fa.js",
     "static/css/2.1b63170c.chunk.css",
     "static/js/2.0e07bda9.chunk.js",
-    "static/css/main.372d31b3.chunk.css",
+    "static/css/main.5befc0a7.chunk.css",
     "static/js/main.cdc4b2ad.chunk.js"
   ]
 }
